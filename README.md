@@ -1,4 +1,4 @@
-![Header](https://github.com/Makisim-test/Makisim-test/blob/main/2024-07-02_14-41-36.png)
+![Header](https://github.com/Makisim-test/Makisim-test/blob/main/InShot_20240702_195312298.jpg)
 ## I am beginning QA engineer, know several programming languages and I can use testing programs.
 ### Languages and tools
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=0000CD)
