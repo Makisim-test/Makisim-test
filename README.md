@@ -16,5 +16,5 @@
 ![CSharp](https://img.shields.io/badge/-CSharp-000000?style=for-the-badge&logo=CSharp&logoColor=800080)
 #### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
-![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=1E90FF)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/faq18366)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=4169E1)
