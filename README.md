@@ -1,4 +1,16 @@
 ![Header](https://github.com/Makisim-test/Makisim-test/blob/main/InShot_20240702_094338787.jpg)
 ## I am beginning QA engineer, know several programming languages and I can use testing programs.
 ### Languages and tools
-![Flutter](https://img.shields.io/badge/-Jira-FFFFFF?style=for-the-badge&logo=Jira&logoColor=0000CD)
+![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=0000CD)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=FF4500)
+![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=Selenium&logoColor=228B22)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=for-the-badge&logo=Swagger&logoColor=228B22)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=FF6347)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000000?style=for-the-badge&logo=AndroidStudio&logoColor=00FF7F)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=1E90FF)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=Bash&logoColor=2F4F4F)
+![DevTools](https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo=DevTools&logoColor=0000CD)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=0000CD)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=0000FF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFFF00)
+![CSharp](https://img.shields.io/badge/-CSharp-000000?style=for-the-badge&logo=CSharp&logoColor=800080)
