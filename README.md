@@ -1,4 +1,5 @@
 ![Header](https://github.com/Makisim-test/Makisim-test/blob/main/VID_20240703_130950.gif)
+## About me
 ![ican](https://github.com/Makisim-test/Makisim-test/blob/main/VID_20240703_003413.gif)
 ## Tools and Languages
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=0000CD)
