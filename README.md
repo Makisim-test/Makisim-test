@@ -15,9 +15,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=#4479A1)
 ![Bash](https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnubash&logoColor=#4EAA25)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
+![CSharp](https://img.shields.io/badge/-c%23-000000?style=for-the-badge&logo=CSharp&logoColor=800080)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFFF00)
-![CSharp](https://img.shields.io/badge/-c%23-000000?style=for-the-badge&logo=CSharp&logoColor=800080)
 ## Certificates and examples of my skills
 ##### Тестирование ПО с нуля. Теория и практика
 [!["Тестирование ПО с нуля. Теория и практика](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/d76178c7abc83d867ae262f53f6a01a4393bfd37.pdf)
