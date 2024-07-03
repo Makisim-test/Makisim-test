@@ -1,4 +1,4 @@
-![Header](https://github.com/Makisim-test/Makisim-test/blob/main/InShot_20240702_195312298.jpg)
+![Header](https://github.com/Makisim-test/Makisim-test/blob/main/VID_20240703_130950.gif)
 ![ican](https://github.com/Makisim-test/Makisim-test/blob/main/VID_20240703_003413.gif)
 ## Certificates and examples of works
 ##### Тестирование ПО с нуля. Теория и практика
