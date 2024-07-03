@@ -1,6 +1,6 @@
 ![Header](https://github.com/Makisim-test/Makisim-test/blob/main/VID_20240703_130950.gif)
 ![ican](https://github.com/Makisim-test/Makisim-test/blob/main/VID_20240703_003413.gif)
-## Certificates and examples of works
+## Certificates and examples of my skills
 ##### Тестирование ПО с нуля. Теория и практика
 [!["Тестирование ПО с нуля. Теория и практика](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/d76178c7abc83d867ae262f53f6a01a4393bfd37.pdf)
 ### Tools and Languages
