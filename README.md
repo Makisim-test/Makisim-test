@@ -18,10 +18,10 @@
 ![CSharp](https://img.shields.io/badge/-c%23-000000?style=for-the-badge&logo=CSharp&logoColor=800080)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFFF00)
-## Certificates and examples of my skills
+## Certificates
 ##### Тестирование ПО с нуля. Теория и практика
 [!["Тестирование ПО с нуля. Теория и практика](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/d76178c7abc83d867ae262f53f6a01a4393bfd37.pdf)
-
+##  Examples of my skills
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/faq18366)
