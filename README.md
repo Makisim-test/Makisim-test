@@ -19,7 +19,7 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=FFFF00)
 ## Certificates
-####№ Вселенная тестирования, или Как стать тестировщиком
+##### Вселенная тестирования, или Как стать тестировщиком
 [![Вселенная тестирования, или Как стать тестировщиком](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/6aa92ac8fcb7577a4aacfd21ac67f940e13ee341.pdf)
 ##### Тестирование ПО с нуля. Теория и практика
 [!["Тестирование ПО с нуля. Теория и практика](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/d76178c7abc83d867ae262f53f6a01a4393bfd37.pdf)
