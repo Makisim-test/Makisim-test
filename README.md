@@ -23,6 +23,8 @@
 [![Вселенная тестирования, или Как стать тестировщиком](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/6aa92ac8fcb7577a4aacfd21ac67f940e13ee341.pdf)
 ##### Тестирование ПО с нуля. Теория и практика
 [!["Тестирование ПО с нуля. Теория и практика](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/d76178c7abc83d867ae262f53f6a01a4393bfd37.pdf)
+##### Тестирование ПО: Postman для тестирования API
+[![Тестирование ПО: Postman для тестирования API](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/070eebe5c81b34e87b0ff658290b66d7c01bba4d.pdf)
 ##  Examples of my skills
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
