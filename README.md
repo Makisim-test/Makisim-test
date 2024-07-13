@@ -6,7 +6,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman&logoColor=FF4500)
 ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=for-the-badge&logo=Selenium&logoColor=#43B02A)
 ![QASE](https://img.shields.io/badge/-QASE-000000?style=for-the-badge&logo=QASE&logoColor=9932CC)
-![AzureDevops](https://img.shields.io/badge/-AzureDevops-000000?style=for-the-badge&logo=AzureDevops&logoColor=4169E1)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=for-the-badge&logo=Jenkins&logoColor=F0E68C)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=for-the-badge&logo=Swagger&logoColor=228B22)
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=FF6347)
