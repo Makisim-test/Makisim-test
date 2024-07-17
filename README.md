@@ -1,7 +1,7 @@
 ![Header](https://github.com/Makisim-test/Makisim-test/blob/main/VID_20240703_130950.gif)
-## About me
+## Обо мне
 ![ican](https://github.com/Makisim-test/Makisim-test/blob/main/VID_20240703_003413.gif)
-## Tools and Languages
+## Инструменты и языки
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![testIT](https://img.shields.io/badge/-TestIT-3776AB?style=for-the-badge&logo=teradata&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -16,7 +16,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-## Certificates
+## Сертификаты
 ##### Вселенная тестирования, или Как стать тестировщиком
 [![Вселенная тестирования, или Как стать тестировщиком](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/6aa92ac8fcb7577a4aacfd21ac67f940e13ee341.pdf)
 ##### Тестирование ПО с нуля. Теория и практика
@@ -25,8 +25,8 @@
 [![Postman-ниндзя: c нуля до автотестов](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/ae8ed0544e0be4b2e04737f48af9c04b7d28f03d.pdf)
 ##### Тестирование ПО: Postman для тестирования API
 [![Тестирование ПО: Postman для тестирования API](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/070eebe5c81b34e87b0ff658290b66d7c01bba4d.pdf)
-##  Examples of my skills
-## Follow me
+##  Примеры моих навыков
+## Я есть в
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/faq18366)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=4169E1)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
