@@ -1,6 +1,6 @@
 ![Header](https://github.com/Makisim-test/Makisim-test/blob/main/VID_20240703_130950.gif)
 ## Обо мне
-![ican](https://github.com/Makisim-test/Makisim-test/blob/main/VID_20240703_003413.gif)
+
 ## Инструменты и языки
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![testIT](https://img.shields.io/badge/-TestIT-3776AB?style=for-the-badge&logo=teradata&logoColor=white)
@@ -26,7 +26,8 @@
 ##### Тестирование ПО: Postman для тестирования API
 [![Тестирование ПО: Postman для тестирования API](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/070eebe5c81b34e87b0ff658290b66d7c01bba4d.pdf)
 ##### Основы интернет-маркетинга
-
+[![Основы интернет-маркетинга](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)]
+(https://stepik.org/certificate/904404f08cb894ca20bc2ff43ecd0117ee3cb910.pdf)
 ##  Примеры моих навыков
 ## Я есть в
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
