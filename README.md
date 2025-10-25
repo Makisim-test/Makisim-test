@@ -16,7 +16,9 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-## Сертификаты
+## Пройденные курсы
+##### «Учи.Дома» Python
+[![«Учи.Дома» Python](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](248d56c9-6088-4908-9e3e-3b6984cc3fbf.pdf)
 ##### Вселенная тестирования, или Как стать тестировщиком
 [![Вселенная тестирования, или Как стать тестировщиком](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/6aa92ac8fcb7577a4aacfd21ac67f940e13ee341.pdf)
 ##### Тестирование ПО с нуля. Теория и практика
@@ -26,7 +28,11 @@
 ##### Тестирование ПО: Postman для тестирования API
 [![Тестирование ПО: Postman для тестирования API](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/070eebe5c81b34e87b0ff658290b66d7c01bba4d.pdf)
 ##### Основы интернет-маркетинга
-[![Основы интернет-маркетинга](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)]
+[![Основы интернет-маркетинга](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/904404f08cb894ca20bc2ff43ecd0117ee3cb910.pdf)
+##### Jira: ведение задач на электронных досках
+[![Jira: ведение задач на электронных досках](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/ec6a6264da02e6527195091e97ee1664ea57a3b9.pdf)
+##### DevOps простым языком
+[![DevOps простым языком](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/4854f31af4b189742422216a42b5586ade4afa9b.pdf)
 ##  Примеры моих навыков
 ## Я есть в
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
