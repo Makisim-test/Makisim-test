@@ -19,7 +19,7 @@
 ## Пройденные курсы
 | № | Название | Дата окончания | Сертификат |
 | ----- | ----- | ----- | ----- |
-| 1 |«Учи.Дома» Python| 07.02.2024 | [![«Учи.Дома» Python](https://img.shields.io/badge/-сертификат-3670A0?style=for-the-badge&logo=&logoColor=FFFF00)](248d56c9-6088-4908-9e3e-3b6984cc3fbf.pdf)|
+| 1 |«Учи.Дома» Python| 07.02.2024 | [![«Учи.Дома» Python](https://img.shields.io/badge/-сертификат-3670A0?style=for-the-badge&logo=&logoColor=FFFF00)](https://github.com/Makisim-test/Makisim-test/blob/main/248d56c9-6088-4908-9e3e-3b6984cc3fbf.pdf)|
 | 2 | Тестирование ПО с нуля. Теория и практика | 30.06.2024 | [![Вселенная тестирования, или Как стать тестировщиком](https://img.shields.io/badge/-сертификат-FFFAFA?style=for-the-badge&logo=&logoColor=000000)](https://stepik.org/certificate/6aa92ac8fcb7577a4aacfd21ac67f940e13ee341.pdf) |
 | 3 | Вселенная тестирования, или Как стать тестировщиком | 04.07.2024 | [![Вселенная тестирования, или Как стать тестировщиком](https://img.shields.io/badge/-сертификат-FFFAFA?style=for-the-badge&logo=&logoColor=000000)](https://stepik.org/certificate/6aa92ac8fcb7577a4aacfd21ac67f940e13ee341.pdf) |
 | 4 | Тестирование ПО: Postman для тестирования API | 04.07.2024 | [![Тестирование ПО: Postman для тестирования API](https://img.shields.io/badge/-сертификат-FF6C37?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/070eebe5c81b34e87b0ff658290b66d7c01bba4d.pdf) |
