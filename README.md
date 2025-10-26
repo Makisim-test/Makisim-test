@@ -28,7 +28,7 @@
 | 7 | Jira: ведение задач на электронных досках | 20.10.2025 | [![Jira: ведение задач на электронных досках](https://img.shields.io/badge/-сертификат-%230A0FFF?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/ec6a6264da02e6527195091e97ee1664ea57a3b9.pdf) |
 | 8 | DevOps простым языком | 21.10.2025 | [![DevOps простым языком](https://img.shields.io/badge/-сертификат-8B4513?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/4854f31af4b189742422216a42b5586ade4afa9b.pdf) |
 ## Контакты
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://makskuzmicev79@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://makskuzmicev79@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/faq18366)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=4169E1)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
