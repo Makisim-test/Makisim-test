@@ -2,7 +2,7 @@
 ## Обо мне 👱‍♂️
 #### Я студент из России :man_student:, учусь в техническом университете 👨‍💻, в будущем хочу стать тестировщиком ПО (QA engineer) :lady_beetle:, знаю на начальном уровне Python (в будущем планирую углублённо его изучить, а так же поверхностно изучить C#, Java и JavaScript), умею работать с электронными таблицами Jira, Postman, Selenium, знаком с методами тестирования 🧪.
 ## Статистика
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMaksim-test=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maksim-test&show_icons=true&theme=radical)
 ## Инструменты и языки 🧰
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![testIT](https://img.shields.io/badge/-TestIT-3776AB?style=for-the-badge&logo=teradata&logoColor=white)
