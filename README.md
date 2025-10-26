@@ -17,10 +17,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## Пройденные курсы
-##### «Учи.Дома» Python
-[![«Учи.Дома» Python](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](248d56c9-6088-4908-9e3e-3b6984cc3fbf.pdf)
-##### Вселенная тестирования, или Как стать тестировщиком
-[![Вселенная тестирования, или Как стать тестировщиком](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/6aa92ac8fcb7577a4aacfd21ac67f940e13ee341.pdf)
+[![«Учи.Дома» Python](https://img.shields.io/badge/-«Учи.Дома»-Python-000000?style=for-the-badge&logo=&logoColor=0000CD)](248d56c9-6088-4908-9e3e-3b6984cc3fbf.pdf)
+[![Вселенная тестирования, или Как стать тестировщиком](https://img.shields.io/badge/-Вселенная-тестирования,-или-Как-стать-тестировщикомт-000000?style=for-the-badge&logo=&logoColor=0200CD)](https://stepik.org/certificate/6aa92ac8fcb7577a4aacfd21ac67f940e13ee341.pdf)
 ##### Тестирование ПО с нуля. Теория и практика
 [!["Тестирование ПО с нуля. Теория и практика](https://img.shields.io/badge/-сертификат-000000?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/d76178c7abc83d867ae262f53f6a01a4393bfd37.pdf)
 ##### Postman-ниндзя: c нуля до автотестов
