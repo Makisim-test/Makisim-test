@@ -34,4 +34,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://makskuzmicev79@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/faq18366)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&logoColor=1E90FF)](https://discord.com/maksim_test_37714)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=4169E1)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
