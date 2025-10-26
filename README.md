@@ -26,7 +26,7 @@
 | 5 | Postman-ниндзя: c нуля до автотестов | 14.07.2024 | [![Postman-ниндзя: c нуля до автотестов](https://img.shields.io/badge/-сертификат-FF6C37?style=for-the-badge&logo=&logoColor=0000CD)](https://github.com/Makisim-test/Makisim-test/blob/main/stepik-certificate-198019-ae8ed05.pdf) |
 | 6 | Основы интернет-маркетинга | 19.10.2025 | [![Основы интернет-маркетинга](https://img.shields.io/badge/-сертификат-9932CC?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/904404f08cb894ca20bc2ff43ecd0117ee3cb910.pdf) |
 | 7 | Jira: ведение задач на электронных досках | 20.10.2025 | [![Jira: ведение задач на электронных досках](https://img.shields.io/badge/-сертификат-%230A0FFF?style=for-the-badge&logo=&logoColor=0000CD)](https://github.com/Makisim-test/Makisim-test/blob/main/stepik-certificate-10425-ec6a626.pdf) |
-| 8 | DevOps простым языком | 21.10.2025 | [![DevOps простым языком](https://img.shields.io/badge/-сертификат-8B4513?style=for-the-badge&logo=&logoColor=0000CD)](https://stepik.org/certificate/4854f31af4b189742422216a42b5586ade4afa9b.pdf) |
+| 8 | DevOps простым языком | 21.10.2025 | [![DevOps простым языком](https://img.shields.io/badge/-сертификат-8B4513?style=for-the-badge&logo=&logoColor=0000CD)](https://github.com/Makisim-test/Makisim-test/blob/main/stepik-certificate-227851-4854f31.pdf) |
 ## Контакты
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://makskuzmicev79@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
