@@ -30,7 +30,7 @@
 | 6 | Основы интернет-маркетинга | 19.10.2025 | [![Основы интернет-маркетинга](https://img.shields.io/badge/-сертификат-9932CC?style=for-the-badge&logo=&logoColor=0000CD)](https://github.com/Makisim-test/Makisim-test/blob/main/stepik-certificate-4350-904404f-1.pdf) |
 | 7 | Jira: ведение задач на электронных досках | 20.10.2025 | [![Jira: ведение задач на электронных досках](https://img.shields.io/badge/-сертификат-%230A0FFF?style=for-the-badge&logo=&logoColor=0000CD)](https://github.com/Makisim-test/Makisim-test/blob/main/stepik-certificate-10425-ec6a626.pdf) |
 | 8 | DevOps простым языком | 21.10.2025 | [![DevOps простым языком](https://img.shields.io/badge/-сертификат-8B4513?style=for-the-badge&logo=&logoColor=0000CD)](https://github.com/Makisim-test/Makisim-test/blob/main/stepik-certificate-227851-4854f31.pdf) |
-| 9 | Введение в SQL | 27.10.2025 | [![Введение в SQL](https://img.shields.io/badge/-сертификат-8B4513?style=for-the-badge&logo=&logoColor=0000CD)]()
+| 9 | Введение в SQL | 27.10.2025 | [![Введение в SQL](https://img.shields.io/badge/-сертификат-4479A1?style=for-the-badge&logo=&logoColor=0000CD)](https://github.com/Makisim-test/Makisim-test/blob/main/stepik-certificate-121774-a55a041.pdf)
 ## Контакты 📫
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://makskuzmicev79@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
