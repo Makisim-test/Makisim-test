@@ -5,7 +5,7 @@
 ## Статистика 🕑
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maksim-test&show_icons=true&theme=radical)
 ## Инструменты и языки 🧰
-![python](https://github.com/Makisim-test/Makisim-test/blob/main/Python-Dark.svg)
+
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![testIT](https://img.shields.io/badge/-TestIT-3776AB?style=for-the-badge&logo=teradata&logoColor=white)
 ![QASE](https://img.shields.io/badge/QASE-%234B275F.svg?style=for-the-badge&logo=QASE&logoColor=white)
