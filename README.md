@@ -1,13 +1,12 @@
 ![Кузьмичев Максим Александрович](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b)
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 ## Обо мне 👱‍♂️
-#### Меня зовут Кузьмичев Максим Александрович, я студент из России :man_student:, учусь в техническом университете 👨‍💻, в будущем хочу стать тестировщиком ПО (QA engineer) :lady_beetle:, знаю на начальном уровне Python (в будущем планирую углублённо его изучить, а так же поверхностно изучить C#, Java и JavaScript), умею работать с электронными таблицами Jira, testIT, QASE, Postman, Selenium, Git, AndroidStudio, MySQL, Bash, PyChrm, знаком с методами тестирования 🧪.
+#### Меня зовут Кузьмичев Максим Александрович, я студент из России :man_student:, учусь в техническом университете 👨‍💻, в будущем хочу стать тестировщиком ПО (QA engineer) :lady_beetle:, знаю на начальном уровне Python (в будущем планирую углублённо его изучить, а так же поверхностно изучить C#, Java и JavaScript), умею работать с электронными таблицами Jira, Qase, testIT, QASE, Postman, Selenium, Git, AndroidStudio, MySQL, Bash, PyChrm, знаком с методами тестирования 🧪.
 ## Статистика 🕑
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maksim-test&show_icons=true&theme=radical)
 ## Инструменты и языки 🧰
-
+![python](https://github.com/Makisim-test/Makisim-test/blob/main/Python-Dark.svg)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![testIT](https://img.shields.io/badge/-TestIT-3776AB?style=for-the-badge&logo=teradata&logoColor=white)
 ![QASE](https://img.shields.io/badge/QASE-%234B275F.svg?style=for-the-badge&logo=QASE&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
