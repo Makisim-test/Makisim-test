@@ -13,9 +13,9 @@
 ![Java](https://github.com/Makisim-test/Makisim-test/blob/main/Java-Dark.svg)
 ## Инструменты 🧰
 ![Jira](https://github.com/Makisim-test/Makisim-test/blob/main/jira_logo_icon_147274.svg)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://github.com/Makisim-test/Makisim-test/blob/main/Postman.svg)
+![Selenium](https://github.com/Makisim-test/Makisim-test/blob/main/Selenium.svg)
+![Git](https://github.com/Makisim-test/Makisim-test/blob/main/Git(1).svg)
 ![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-00FF7F?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
