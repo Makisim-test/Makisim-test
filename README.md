@@ -15,11 +15,11 @@
 ![Jira](https://github.com/Makisim-test/Makisim-test/blob/main/jira_logo_icon_147274.svg)
 ![Postman](https://github.com/Makisim-test/Makisim-test/blob/main/Postman.svg)
 ![Selenium](https://github.com/Makisim-test/Makisim-test/blob/main/Selenium.svg)
-
-![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-00FF7F?style=for-the-badge&logo=AndroidStudio&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Git](https://github.com/Makisim-test/Makisim-test/blob/main/Git.svg)
+![AndroidStudio](https://github.com/Makisim-test/Makisim-test/blob/main/AndroidStudio-Dark.svg)
+![MySQL](https://github.com/Makisim-test/Makisim-test/blob/main/MySQL-Dark.svg)
+![Bash](https://github.com/Makisim-test/Makisim-test/blob/main/Bash-Dark.svg)
+![PyCharm](https://github.com/Makisim-test/Makisim-test/blob/main/PyCharm-Dark.svg)
 ## Пройденные курсы 🧑‍🎓
 | № | Название | Дата окончания | Сертификат |
 | ----- | ----- | ----- | ----- |
