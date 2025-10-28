@@ -20,6 +20,7 @@
 ![MySQL](https://github.com/Makisim-test/Makisim-test/blob/main/MySQL-Dark.svg)
 ![Bash](https://github.com/Makisim-test/Makisim-test/blob/main/Bash-Dark.svg)
 ![PyCharm](https://github.com/Makisim-test/Makisim-test/blob/main/PyCharm-Dark.svg)
+![VSCode](https://github.com/Makisim-test/Makisim-test/blob/main/VSCode-Dark.svg)
 ## Пройденные курсы 🧑‍🎓
 | № | Название | Дата окончания | Сертификат |
 | ----- | ----- | ----- | ----- |
