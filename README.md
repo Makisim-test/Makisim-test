@@ -35,8 +35,8 @@
 | 9 | Введение в SQL | 27.10.2025 | [![Введение в SQL](https://img.shields.io/badge/-сертификат-4479A1?style=for-the-badge&logo=&logoColor=0000CD)](https://github.com/Makisim-test/Makisim-test/blob/main/stepik-certificate-121774-a55a041.pdf) |
 | 10 | Git и GitHub: Практическое управление кодом и проектами | 28.10.2025 | [![Git и GitHub: Практическое управление кодом и проектами](https://img.shields.io/badge/-сертификат-FF0000?style=for-the-badge&logo=&logoColor=0000CD)](https://github.com/Makisim-test/Makisim-test/blob/main/stepik-certificate-299813-473a7e1.pdf) |
 ## Контакты 📫
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://makskuzmicev79@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=00BFFF)](https://t.me/Maxim0i)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/faq18366)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&logoColor=1E90FF)](https://discord.com/maksim_test_37714)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=4169E1)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+[![Gmail](https://github.com/Makisim-test/Makisim-test/blob/main/Gmail-Dark.svg)](https://makskuzmicev79@gmail.com)
+[![Telegram](https://github.com/Makisim-test/Makisim-test/blob/main/telegram_logo_icon_147228.svg)](https://t.me/Maxim0i)
+[![Vkontakte](https://github.com/Makisim-test/Makisim-test/blob/main/1486053615-vk_79192.svg)](https://vk.com/faq18366)
+[![Discord](https://github.com/Makisim-test/Makisim-test/blob/main/Discord.svg)](https://discord.com/maksim_test_37714)
+[![LinkedIn](https://github.com/Makisim-test/Makisim-test/blob/main/LinkedIn.svg)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
